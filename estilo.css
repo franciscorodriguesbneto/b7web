@@ -1,0 +1,17 @@
+h1 {
+    background: rgb(100, 200, 0);
+}
+
+p {
+    border: 2px solid red;
+    
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(80, 204, 241);
+    border-radius: 100px;
+    
+}
+
